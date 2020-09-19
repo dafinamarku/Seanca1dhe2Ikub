@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\bin\Debug\Seanca1Ikub.exe.config
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\bin\Debug\Seanca1Ikub.exe
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\bin\Debug\Seanca1Ikub.pdb
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\obj\Debug\Seanca1Ikub.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\obj\Debug\Seanca1Ikub.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\obj\Debug\Seanca1Ikub.exe
+C:\Users\user\source\repos\Seanca1Ikub\Seanca1Ikub\obj\Debug\Seanca1Ikub.pdb
